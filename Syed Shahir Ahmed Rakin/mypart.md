@@ -5,7 +5,7 @@ My part contains
 2) Execution by LSTM
 3) Execution by ESN
 
-1) CSB for Bank Stock:
+CSB for Bank Stock:
 This CSV contains the stock shares of the following banks:
 
 i) ABBANK (AB Bank Limited)
@@ -19,8 +19,8 @@ viii) NCCBANK (National Credit and Commerce Bank Ltd.)
 ix) SOUTHEASTB (Southeast Bank Ltd.)
 x) UCB (United Commercial Bank Ltd.)
 
-2) Execution by LSTM
+Execution by LSTM
 (To be added)
 
-3) Execution by ESN
+Execution by ESN
 The pyESN file is taken from the user named Clemens Korndörfer aka 'cknd'
