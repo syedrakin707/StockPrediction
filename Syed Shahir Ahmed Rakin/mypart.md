@@ -6,7 +6,8 @@ My part contains
 3) Execution by ESN
 
 CSB for Bank Stock:
-This CSV contains the stock shares of the following banks:
+
+This CSV contains the stock shares of the following banks
 
 i) ABBANK (AB Bank Limited)
 ii) BANKASIA (Bank Asia Ltd.)
